@@ -1,0 +1,7 @@
+C:\Users\thiba\Desktop\FizzBuzzV1\Console_FizzBuzz\Console_FizzBuzz\bin\Debug\Console_FizzBuzz.exe.config
+C:\Users\thiba\Desktop\FizzBuzzV1\Console_FizzBuzz\Console_FizzBuzz\bin\Debug\Console_FizzBuzz.exe
+C:\Users\thiba\Desktop\FizzBuzzV1\Console_FizzBuzz\Console_FizzBuzz\bin\Debug\Console_FizzBuzz.pdb
+C:\Users\thiba\Desktop\FizzBuzzV1\Console_FizzBuzz\Console_FizzBuzz\obj\Debug\Console_FizzBuzz.csprojAssemblyReference.cache
+C:\Users\thiba\Desktop\FizzBuzzV1\Console_FizzBuzz\Console_FizzBuzz\obj\Debug\Console_FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\thiba\Desktop\FizzBuzzV1\Console_FizzBuzz\Console_FizzBuzz\obj\Debug\Console_FizzBuzz.exe
+C:\Users\thiba\Desktop\FizzBuzzV1\Console_FizzBuzz\Console_FizzBuzz\obj\Debug\Console_FizzBuzz.pdb
