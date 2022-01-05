@@ -22,13 +22,10 @@ namespace Console_FizzBuzz
             const string textDivider2 = "Buzz";
             string OutPutText = "";
 
-
-            
-
             for (int i = 1; i <= number; i++)
             {
                 //can be divide by divider1
-                if (i%divider1==0)
+                if (i % divider1 == 0)
                 {
                     OutPutText += textDivider1;
                 }
@@ -38,7 +35,7 @@ namespace Console_FizzBuzz
                     OutPutText += textDivider2;
                 }
                 //cannot be divide by divider1 and divider2
-                if (i % divider1 != 0&& i % divider2 != 0)
+                if (i % divider1 != 0 && i % divider2 != 0)
                 {
                     OutPutText = i.ToString();
                 }
